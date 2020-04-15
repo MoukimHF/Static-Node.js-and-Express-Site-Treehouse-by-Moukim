@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "Practice your knowledge of basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.",
+      "technologies": ["HTML5", "CSS", "JavaScript"],
+      "live_link": "https://moukimhf.github.io/a_random_quote_generator-v1-by_moukim_hfaidh/",
+      "github_link": "https://github.com/MoukimHF/a_random_quote_generator-v1-by_moukim_hfaidh",
+      "image_urls": ["/static/images/projet1_main.png", "/static/images/Project2_1.png", "/static/images/Project2_2.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "Pagination & Content Filter",
+      "description": "Long lists don't make for a good user experience on a web page. In this project, we'll enhance the usability of a web page that contains a long list by employing JavaScript to dynamically divide the list into \"pages\". As a bonus challenge, we'll add a search feature to display only the students that match the search criteria.",
+      "technologies": ["HTML5", "CSS", "JavaScript"],
+      "live_link": "https://moukimhf.github.io/Treehouse_Techdegree_FSJS_project_2_-List_Filter_and_Pagination/index.html",
+      "github_link": "https://github.com/MoukimHF/Treehouse_Techdegree_FSJS_project_2_-List_Filter_and_Pagination",
+      "image_urls": ["/static/images/Project2_main.png", "/static/images/Project2_1.png", "/static/images/Project2_2.png"]
+    },
+    {
+      "id": 2,
+      "project_name": "Build an Interactive Form",
+      "description": "Full Stack JavaScript developers create forms to collect information from users for nearly every website and application they build. For this project, you’ll use your skills to enhance a form so that it’s engaging, interactive, and easy to use.",
+      "technologies": ["HTML5", "CSS", "JavaScript"],
+      "live_link": "https://moukimhf.github.io/Interactive-Form-TeamTreeHouse-Moukim-hfaidh/",
+      "github_link": "https://github.com/MoukimHF/Interactive-Form-TeamTreeHouse-Moukim-hfaidh",
+      "image_urls": ["/static/images/Project3_main.png", "/static/images/Project3_1.png", "/static/images/Project3_2.png"]    },
+    {
+      "id": 3,
+      "project_name": "Phrase Hunter",
+      "description": "a browser-based, word guessing game: Phrase Hunter.",
+      "technologies": ["HTML5", "CSS", "JavaScript","OOP"],
+      "live_link": "https://moukimhf.github.io/Phrase-Hunter-v2-by-Moukim/index.html",
+      "github_link": "https://github.com/MoukimHF/Phrase-Hunter-v2-by-Moukim",
+      "image_urls": ["/static/images/Project4_main.png", "/static/images/Project4_1.png", "/static/images/Project4_2.png"]    },
+    {
+      "id": 4,
+      "project_name": "Use a Public API to Create an Employee Directory ",
+      "description": "Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
+      "technologies": ["HTML5", "CSS3", "JavaScript"],
+      "live_link": "https://moukimhf.github.io/Public_Api-Request-V1_TeamTreeHouse_TD-By-Moukim/",
+      "github_link": "https://github.com/MoukimHF/Public_Api-Request-V1_TeamTreeHouse_TD-By-Moukim",
+      "image_urls": ["/static/images/Project5_main.png", "/static/images/Project5_1.png", "/static/images/Project5_2.png"]    }
+      
+      
+  ]
+}

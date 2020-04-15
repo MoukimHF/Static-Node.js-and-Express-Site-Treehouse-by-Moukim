@@ -1,0 +1,25 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "helomoukim"
+  },
+  "author": "moukim",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.6.1",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "node-static": "^0.7.11",
+    "pug": "^2.0.4"
+  }
+}
